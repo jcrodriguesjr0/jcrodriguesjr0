@@ -38,6 +38,10 @@ More recently, I was able to explore the use of Artificial Intelligence working 
 ![Snake animation](https://github.com/AbdoralNeto/AbdoralNeto/blob/output/github-contribution-grid-snake.svg)
 -->
 
+## Generative AI
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
 ## Contact Information
 <div>
 
