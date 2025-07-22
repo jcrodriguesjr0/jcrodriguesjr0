@@ -22,6 +22,8 @@ More recently, I was able to explore the use of Artificial Intelligence working 
 
 [A/B test app](https://jcrodriguesjr0.github.io/Infogr-fico-Interativo/)
 
+[Landing Page w/ forms](https://jcrodriguesjr0.github.io/Landing-Page-Form/)
+
 ## Operating System
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
