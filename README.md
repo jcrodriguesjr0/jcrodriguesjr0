@@ -18,6 +18,8 @@ More recently, I was able to explore the use of Artificial Intelligence working 
 
 ## Portfolio
 
+[Website christmas 2025 for Delícias & Afins](https://jcrodriguesjr0.github.io/Site-Natal-Delicias-Afins/)
+
 [Landing Page 1](https://jcrodriguesjr0.github.io/Landing-Page-test-1/)
 
 [A/B test app](https://jcrodriguesjr0.github.io/Infogr-fico-Interativo/)
