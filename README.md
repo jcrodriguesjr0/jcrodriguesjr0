@@ -28,6 +28,7 @@ Abaixo você encontra meus principais projetos construídos em diferentes stacks
 
 | Projeto | Descrição | Status (Live) | Código-fonte (Repo) |
 |---|---|---|---|
+| **Nexus Agent Ecosystem** | Framework de orquestração multi-agente (Swarm) com memória de longo prazo e sistema modular de skills. | *N/A (Framework)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/nexus-agent-ecosystem) |
 | **PDF OCR Extractor** | Script utilitário em Python para leitura e extração automatizada em lote de textos de PDFs via Tesseract OCR. | *N/A (Script CLI)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/extract-pdf-ocr) |
 | **Whisper AI (Speech-to-Text)** | Setup demonstrando transcrição fluida de áudios via prompt engineering usando a engine OpenAI e FFmpeg. | *N/A (Back-end)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/whisper-ia) |
 | **Cheminformatics ML (Drug Discovery)** | Pipeline avançado usando RDKit para codificação de moléculas estruturais SMILES em vetores lógicos preditivos QED. | *N/A (Data Science)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/Machine-Learning-Project-2d-structures) |
