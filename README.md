@@ -1,27 +1,57 @@
-### Olá! Eu sou o João Carlos 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
-Sou um profissional proativo, apaixonado por tecnologia e resolução de problemas estruturais. Uno constantemente planejamento analítico, capacidade de abstração e rigor técnico em cada novo repositório ou projeto colaborativo que assumo. Meu foco diário é evoluir não apenas escrevendo código, mas criando *produtos* que tenham valor estratégico.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+João+Rodrigues;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
----
+## Profile
 
-### 💻 O que faço?
+A Systems Analysis and Development student, with previous experience in bioinformatics, where I developed skills in programming, data analysis, task automation and Linux.
+More recently, I was able to explore the use of Artificial Intelligence working with LLMs, automation tools such as Flowise and n8n, as well as routines with generative AI. I am looking for an internship (front-end, back-end or AI) to combine my technical background, logical reasoning and curiosity in practical projects.
 
-- Desenvolvo soluções escaláveis com arquiteturas eficientes e focadas no longo prazo.
-- Construo interfaces, estudo padrões de acessibilidade web, crio automações sistêmicas e scripts curtos em Python para economizar tempo no cotidiano de TI.
-- Estou sempre experimentando! Adoro prototipar rapidamente, desde landing pages responsivas e sistemas back-end, até explorar de forma pioneira automações multi-agente e inteligência artificial rodando localmente no Linux.
+### GitHub Stats
 
-### 🛠️ Tecnologias & Stacks do meu Radar
+<div style="display: flex;
+">
 
-- **Frontend & Web Core:** HTML5, CSS3, JavaScript Vanilla
-- **Backend & Scripting Data Pipelines:** Python
-- **Tools & Visão de Futuro:** IA Agentic, engenharia de prompts avançada, arquitetura orquestrada de bots interativos, GitHub Actions e metodologias ágeis.
+<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=jcrodriguesjr0&show_icons=true&theme=dark&title_color=BDB76B&text_color=F0FFFF&icon_color=DAA520&border_color=8FBC8F"> <img height="150rem" src="https://github-readme-activity-graph.vercel.app/graph?username=jcrodriguesjr0&bg_color=000000&color=F0FFFF&line=f0ffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
-### 📊 Meus 'Stats' Recentes no GitHub
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcrodriguesjr0&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcrodriguesjr0&layout=compact&langs_count=7&theme=omni"/>
-</p>
+## Portfolio
 
----
-*"Buscando construir hoje as fundações sólidas da tecnologia que usaremos amanhã."* 🚀
+[Website black pirate](https://jcrodriguesjr0.github.io/black-pirate-burger/)
+
+[Website christmas 2025 for Delícias & Afins](https://jcrodriguesjr0.github.io/Site-Natal-Delicias-Afins/)
+
+[Landing Page 1](https://jcrodriguesjr0.github.io/Landing-Page-test-1/)
+
+[A/B test app](https://jcrodriguesjr0.github.io/Infogr-fico-Interativo/)
+
+[Landing Page w/ forms](https://jcrodriguesjr0.github.io/Landing-Page-Form/)
+
+## Operating System
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+## Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+<!--## Contribuição
+![Snake animation](https://github.com/AbdoralNeto/AbdoralNeto/blob/output/github-contribution-grid-snake.svg)
+-->
+
+## Generative AI
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
+## Contact Information
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcrodriguesjr/)[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#0510c6)](mailto:jcrodriguesjr@hotmail.com)
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=footer"/>
