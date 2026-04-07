@@ -29,6 +29,7 @@ Abaixo você encontra meus principais projetos construídos em diferentes stacks
 | Projeto | Descrição | Status (Live) | Código-fonte (Repo) |
 |---|---|---|---|
 | **Nexus Agent Ecosystem** | Framework de orquestração multi-agente (Swarm) com memória de longo prazo e sistema modular de skills. | *N/A (Framework)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/nexus-agent-ecosystem) |
+| **Nexus-Guard (Agent Linter)** | Linter CLI de segurança focado em aplicações LLM, verificador de OWASP Top 10 contra Injeção de Prompt e Vazamento de Segredos de IA. | *N/A (Cibersegurança/IA)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/nexus-guard) |
 | **Docxify (Python Package)** | Pacote CLI/Lib em Python para coversão estruturada de Markdown (gerado por IA) em documentos de Word (.docx) profissionais. | *N/A (Package)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/docxify) |
 | **PDF OCR Extractor** | Script utilitário em Python para leitura e extração automatizada em lote de textos de PDFs via Tesseract OCR. | *N/A (Script CLI)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/extract-pdf-ocr) |
 | **Whisper AI (Speech-to-Text)** | Setup demonstrando transcrição fluida de áudios via prompt engineering usando a engine OpenAI e FFmpeg. | *N/A (Back-end)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/whisper-ia) |
