@@ -59,7 +59,7 @@ Abaixo você encontra meus principais projetos construídos em diferentes stacks
 ## 📫 Como me encontrar
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jcrodriguesjr/">
+  <a href="https://www.linkedin.com/in/joaocrodriguesjr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jcrodriguesjr@hotmail.com">
