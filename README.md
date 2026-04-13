@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mim (Profile)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e resolução criativa de problemas. Trago na bagagem uma forte experiência prévia com **Bioinformática**, onde desenvolvi minha base química/analítica, destreza em programação, manipulação de dados complexos e familiaridade fluente com Linux.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e resolução criativa de problemas. Trago na bagagem experiência prévia com **Bioinformática**, onde desenvolvi minha base analítica, destreza em programação, manipulação de dados complexos e familiaridade fluente com Linux.
 
 Recentemente, mergulhei profundamente no universo da **Inteligência Artificial Agentic (Agentes de IA)** e automação sistêmica. Tenho expertise prática atuando e construindo pipelines de automação com agentes autônomos integrados, liderados primariamente por **Antigravity** e **Claude Code**, que emprego para acelerar de forma vitalícia os ciclos de desenvolvimento e tarefas organizacionais.
 
