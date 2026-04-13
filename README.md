@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Rodrigues;Bem-vindo+ao+meu+Perfil+do+GitHub!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Carlos;Bem-vindo+ao+meu+Perfil+do+GitHub!:%29)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim (Profile)
 
