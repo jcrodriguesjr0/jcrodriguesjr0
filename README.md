@@ -14,16 +14,6 @@ Além disso, exploro e interajo incansavelmente com novos frameworks open-source
 
 Abaixo você encontra meus principais projetos construídos em diferentes stacks. Acesse-os ao vivo ou confira a engenharia e versionamento pelo código-fonte!
 
-### 🎨 Front-end & Web
-
-| Projeto | Descrição | Visualização (Live) | Código-fonte (Repo) |
-|---|---|---|---|
-| **Black Pirate Burger** | Protótipo de site interativo e responsivo para uma hamburgueria artesanal temática. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/black-pirate-burger/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/black-pirate-burger) |
-| **Natal Delícias & Afins** | Landing page sazonal voltada para catálogo e captura de clientes em e-commerce natalino. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Site-Natal-Delicias-Afins/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Site-Natal-Delicias-Afins) |
-| **Infográfico Interativo** | Desenvolvimento de experiência na web focada em conversão visual de dados e gamificação. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Infogr-fico-Interativo/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Infogr-fico-Interativo) |
-| **Landing Page c/ Forms** | Interface otimizada visando altíssima conversibilidade e captura de leads. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Landing-Page-Form/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Landing-Page-Form) |
-| **Landing Page Draft** | Sandbox para testes contínuos de layout elástico e escalável. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Landing-Page-test-1/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Landing-Page-test-1) |
-
 ### 🧠 Back-end, Automação Scripts e ML
 
 | Projeto | Descrição | Status (Live) | Código-fonte (Repo) |
@@ -34,6 +24,25 @@ Abaixo você encontra meus principais projetos construídos em diferentes stacks
 | **PDF OCR Extractor** | Script utilitário em Python para leitura e extração automatizada em lote de textos de PDFs via Tesseract OCR. | *N/A (Script CLI)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/extract-pdf-ocr) |
 | **Whisper AI (Speech-to-Text)** | Setup demonstrando transcrição fluida de áudios via prompt engineering usando a engine OpenAI e FFmpeg. | *N/A (Back-end)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/whisper-ia) |
 | **Cheminformatics ML (Drug Discovery)** | Pipeline avançado usando RDKit para codificação de moléculas estruturais SMILES em vetores lógicos preditivos QED. | *N/A (Data Science)* | [💻 Ver Código](https://github.com/jcrodriguesjr0/Machine-Learning-Project-2d-structures) |
+
+### 🎨 Front-end & Web
+
+| Projeto | Descrição | Visualização (Live) | Código-fonte (Repo) |
+|---|---|---|---|
+| **Black Pirate Burger** | Protótipo de site interativo e responsivo para uma hamburgueria artesanal temática. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/black-pirate-burger/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/black-pirate-burger) |
+| **Natal Delícias & Afins** | Landing page sazonal voltada para catálogo e captura de clientes em e-commerce natalino. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Site-Natal-Delicias-Afins/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Site-Natal-Delicias-Afins) |
+| **Infográfico Interativo** | Desenvolvimento de experiência na web focada em conversão visual de dados e gamificação. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Infogr-fico-Interativo/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Infogr-fico-Interativo) |
+| **Landing Page c/ Forms** | Interface otimizada visando altíssima conversibilidade e captura de leads. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Landing-Page-Form/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Landing-Page-Form) |
+| **Landing Page Draft** | Sandbox para testes contínuos de layout elástico e escalável. | [🔗 Acessar Site](https://jcrodriguesjr0.github.io/Landing-Page-test-1/) | [💻 Ver Código](https://github.com/jcrodriguesjr0/Landing-Page-test-1) |
+
+### 🐧 Ferramentas Linux (Shell Script)
+
+| Utilitário | Descrição | Ambiente | Repositório |
+|---|---|---|---|
+| **Caçar Duplicatas** | Inspetor de disco de alta performance com hash criptográfico SHA-256 para varrer arquivos repetidos. | *CLI de Manutenção* | [💻 Ver Código](https://github.com/jcrodriguesjr0/cacar-duplicatas) |
+| **Organizar Downloads** | Automação que padroniza o caos categorizando arquivos soltos de acordo com suas extensões e metadata. | *Produtividade* | [💻 Ver Código](https://github.com/jcrodriguesjr0/organizar-downloads) |
+| **Scanner de Espaço** | Alternativa nativa de altíssima velocidade para rastrear os recursos mais pesados alocados no sistema. | *CLI de Manutenção* | [💻 Ver Código](https://github.com/jcrodriguesjr0/scanner-espaco) |
+| **Scanner Wi-Fi** | Diagnóstico visual de espectro sem-fio sobre canais vizinhos para engenharia de rotas com `nmcli`. | *Engenharia de Redes* | [💻 Ver Código](https://github.com/jcrodriguesjr0/scanner-wifi) |
 
 ## 💻 Tecnologias, Agentes e Ferramentas
 
